@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Russian banknotes during Civil war</string>
+    <string name="image">image</string>
+    <string name="obverse">obverse</string>
+    <string name="reverse">reverse</string>
+    <string name="country_s">Country: %s</string>
+    <string name="circulation_time_s">Issue year: %s</string>
+    <string name="description_s">Description: %s</string>
+    <string name="settings">Settings</string>
+    <string name="version">Version %s</string>
+    <string name="enable_bigger_text">Bigger text size</string>
+    <string name="interface_cat_preference">Interface</string>
+    <string name="other_cat_preference">Other</string>
+    <string name="enable_bigger_icons">Bigger icons</string>
+    <string name="rotate_vertical_image">Rotate vertical images in list</string>
+</resources>

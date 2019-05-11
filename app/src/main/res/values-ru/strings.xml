@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Банкноты Гражданской войны</string>
+    <string name="image">изображение</string>
+    <string name="obverse">аверс</string>
+    <string name="reverse">реверс</string>
+    <string name="country_s">Страна: %s</string>
+    <string name="circulation_time_s">Год выпуска: %s</string>
+    <string name="description_s">Описание: %s</string>
+    <string name="settings">Настройки</string>
+    <string name="version">Версия %s</string>
+    <string name="enable_bigger_text">Увеличенный размер текста</string>
+    <string name="interface_cat_preference">Интерфейс</string>
+    <string name="other_cat_preference">Другое</string>
+    <string name="enable_bigger_icons">Увеличенные иконки</string>
+    <string name="rotate_vertical_image">Поворачивать вертикальные изображения в списке</string>
+</resources>
